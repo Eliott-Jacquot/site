@@ -1,0 +1,144 @@
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Images Vidéos ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+#img1 {
+    width: 800px;
+    height: 600px;
+    float: right;
+
+}
+
+img {
+    border: solid rgb(255, 255, 255) 5px;
+    margin: 0px;
+    position: relative;
+    margin-right: 8px;
+}
+
+#img2 {
+    width: 700px;
+    height: 500px;
+    float: left;
+    margin-top: 90px;
+    margin-left: 8px;
+
+}
+
+#img3 {
+    width: 800px;
+    height: 700px;
+    float: right;
+    margin-top: 90px;
+    margin-right: 8px;
+
+}
+
+
+
+
+
+
+/* ~~~~~~~~~~~~~~~~ ~~~~~~~~~~~~~~~~~~~~  TEXTES ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+
+body {
+    background-color: rgba(0, 0, 0, 0.689);
+    color: white;
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+
+#div1 {
+    margin-top: 65px;
+}
+
+#txt1 {
+    font-size: 23px;
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: 40px;
+    margin-right: 825px;
+    margin-left: 8px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#txt2 {
+    font-size: 27px;
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 10px;
+    margin-left: 750px;
+    margin-right: 8px;
+
+}
+
+#div3 {
+    margin-top: 150px;
+}
+
+#txt3 {
+    font-size: 21px;
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: 35px;
+    margin-right: 825px;
+    margin-left: 8px;
+}
+
+#txt4 {
+    font-size: 23px;
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: 160px;
+    margin-right: 825px;
+    margin-left: 8px;
+}
+
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Contact etc (class) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+
+
+#contact {
+    width: 1690px;
+    height: 180px;
+    background-color: rgb(32, 32, 32);
+    margin-top: 80px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+
+
+}
+
+
+#a2 {
+    color: black;
+    text-decoration: none;
+}
+
+
+#div2 {
+    text-decoration: none;
+    font-size: 50px;
+    display: inline-block;
+    margin-left: 210px;
+    color: black;
+    text-align: center;
+    margin-top: 56px;
+    border: rgb(255, 255, 255) solid 15px;
+    background-color: rgb(255, 255, 255);
+
+}

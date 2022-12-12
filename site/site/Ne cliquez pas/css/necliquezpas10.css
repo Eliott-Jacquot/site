@@ -1,0 +1,88 @@
+
+#txt1 {
+    font-size: 70px;
+    font-weight: bold;
+    background-clip: border-box;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-image: -webkit-linear-gradient(left, red, orange, yellow, green, blue, indigo, violet);
+    text-align: center;
+}
+
+#img1 {
+    width: 700px;
+    height: 500px;
+    margin-left: 500px;
+}
+
+body {margin-left: 0px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Contact etc (class) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+
+
+#contact {
+    width: 1691px;
+    height: 180px;
+    background-color: rgb(32, 32, 32);
+    margin-top: 48px;
+    margin-bottom: 0px;
+
+
+}
+
+
+#a2 {
+    color: black;
+    text-decoration: none;
+}
+
+
+#div2 {
+    text-decoration: none;
+    font-size: 50px;
+    display: inline-block;
+    margin-left: 215px;
+    color: black;
+    text-align: center;
+    margin-top: 56px;
+    border: rgb(255, 255, 255) solid 15px;
+    background-color: rgb(255, 255, 255);
+
+}

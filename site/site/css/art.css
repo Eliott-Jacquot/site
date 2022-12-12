@@ -1,0 +1,197 @@
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~       Listes       ~~~~~~~~~~~~~~~~~~~~~~~~ */
+ol {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 10px;
+
+
+}
+
+li {
+    display: block;
+    margin-top: 10px;
+
+}
+
+
+
+
+
+/* ---------------------         textes        --------------------------------------- */
+
+#titre1 {
+    font-size: 70px;
+    margin-block: 5px;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+#txtphoto {
+
+    font-size: 50px;
+    margin-left: 900px;
+
+}
+
+
+#txt2 {
+    margin-top: 50px;
+    float: center;
+    font-size: 19px;
+}
+
+#txt3 {
+    display: block;
+    margin-top: 70px;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+#texte4 {
+    margin-top: 100px;
+    font-size: 22px;
+    text-align: center;
+    margin-right: 3px;
+    font-weight: bold;
+}
+
+#txt5 {
+    text-align: center;
+    font-size: 21px;
+    margin-right: 3px;
+}
+
+#titre2 {
+    margin-top: 80px;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+
+body {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.689);
+    margin-left: 0px;
+
+}
+
+
+
+
+#a1 {
+
+    color: white;
+}
+
+
+
+
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~     Images/Vidéos     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+video {
+
+
+    position: relative;
+    display: block;
+
+    border: solid rgb(255, 255, 255) 5px;
+    margin: 0px;
+    margin : 0px
+
+
+
+}
+
+
+
+#videopitstop {
+    height: 450px;
+    width: 800px;
+    margin-top: 4px;
+    margin-right: 0px;
+    margin: 0;
+    margin-left: 0px;
+    float: left;
+}
+
+
+
+
+#photopit {
+    margin-top: 20px;
+    width: 1000px;
+    height: auto;
+    float: left;
+    border: solid rgb(255, 255, 255) 5px;
+}
+
+#videopitstop2 {
+    float: right;
+    margin-top: 25px;
+    height: 60%;
+    width: 60%;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Contact etc (class) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+
+
+#contact {
+    width: 1690px;
+    height: 180px;
+    background-color: rgb(32, 32, 32);
+    margin-top: 48px;
+    margin-bottom: 0px;
+
+
+}
+
+
+#a2 {
+    color: black;
+    text-decoration: none;
+}
+
+
+#div2 {
+    text-decoration: none;
+    font-size: 50px;
+    display: inline-block;
+    margin-left: 210px;
+    color: black;
+    text-align: center;
+    margin-top: 56px;
+    border: rgb(255, 255, 255) solid 15px;
+    background-color: rgb(255, 255, 255);
+
+}
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Oui ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+#txte {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 100px;
+}
+
+#oui {
+    text-decoration: none;
+    color: white;
+    border-radius: 20px;
+    border:  solid red ;
+    background-color: red;
+}

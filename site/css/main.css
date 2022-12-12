@@ -1,0 +1,82 @@
+/* image titre */
+#img1 {
+    border : solid black 4px;
+}
+
+#image img {
+    margin-left: 395px;
+    margin-right: 380px;
+    margin-top: 0px;
+    height: 500px;
+    width: 900px;
+}
+
+
+p {
+    text-align: center;
+}
+
+#txt {
+    margin-top: 33px;
+}
+
+#logo1  {
+    height: 70px;
+    width: 110px;
+    margin-left: 4px;
+    display: inline-block;
+    padding-left: 0px;
+
+}
+
+#logo2 {
+    height: 70px;
+    width: 110px;
+    margin-left: 0px;
+    display: inline-block;
+    margin-left: 1430px;
+}
+
+
+
+h1 {
+    text-align: center;
+    margin-top: -30px;
+}
+
+/* Liens */
+
+a {
+
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    
+    
+
+}
+
+li {
+    display: block;
+    
+    background-color: rgb(255, 0, 0);
+    border-radius: 60px;
+    border-style: solid;
+    border-width: 40px;
+    border-color: rgb(255, 0, 0);
+    width: 120px;
+    text-align: center;
+    display: inline-block;
+    font-size: 22px;
+    margin: 40px;
+   
+   
+
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+    margin-left: 90px;
+
+}
+

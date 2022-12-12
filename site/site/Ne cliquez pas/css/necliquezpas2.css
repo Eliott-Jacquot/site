@@ -1,0 +1,15 @@
+#txte {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 800px;
+}
+
+#oui {
+    text-decoration: none;
+    color: white;
+    border-radius: 20px;
+    border:  solid red ;
+    background-color: red;
+}

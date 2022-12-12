@@ -1,0 +1,33 @@
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Contact etc (class) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+
+
+#contact {
+    width: 1650px;
+    height: 180px;
+    background-color: rgb(32, 32, 32);
+    margin-top: 48px;
+    margin-bottom: 0px;
+
+
+}
+
+
+#a2 {
+    color: black;
+    text-decoration: none;
+}
+
+
+#div2 {
+    text-decoration: none;
+    font-size: 50px;
+    display: inline-block;
+    margin-left: 210px;
+    color: black;
+    text-align: center;
+    margin-top: 56px;
+    border: rgb(255, 255, 255) solid 15px;
+    background-color: rgb(255, 255, 255);
+
+}
